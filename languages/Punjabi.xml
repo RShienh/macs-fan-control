@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings version="1.4.8" Author="Rajbir Singh Shienh">
+	<MainWindow>
+		<staticFanListHeader>ਉਪਲੱਬਧ ਪੱਖੇ:</staticFanListHeader>
+		<staticSensorsListHeader>ਤਾਪਮਾਨ ਸੈਂਸਰ:</staticSensorsListHeader>
+		<listColumnFan>ਪੱਖਾ</listColumnFan>
+		<listColumnRPM>ਘੱਟੋ-ਘੱਟ/ਮੌਜੂਦਾ/ਵੱਧੋ-ਵੱਧ RPM</listColumnRPM>
+		<listColumnControl>ਨਿਯੰਤਰਣ</listColumnControl>
+		<listColumnSensor>ਸੈਂਸਰ</listColumnSensor>
+		<listColumnSensorValue>ਮੁੱਲ</listColumnSensorValue>
+		<listSeparatorDrives>ਡਿਸਕ ਡਰਾਈਵਾਂ:</listSeparatorDrives>
+		<popupMenuItemControl>ਕੰਟਰੋਲ ਬਦਲੋ ...</popupMenuItemControl>
+		<popupMenuItemReset>ਆਟੋਮੈਟਿਕ ਕੰਟਰੋਲ ਤੇ ਰੀਸੈਟ ਕਰੋ</popupMenuItemReset>
+		<fanControlAutomatic>ਆਟੋ</fanControlAutomatic>
+		<fanControlAutomaticInfo>ਆਟੋਮੈਟਿਕ (ਸਿਸਟਮ ਦੁਆਰਾ ਨਿਯੰਤ੍ਰਿਤ)</fanControlAutomaticInfo>
+		<fanControlConstant>%1 ਦਾ ਸਥਿਰ ਮੁੱਲ</fanControlConstant>
+		<fanControlSensor>%1 ਤੇ ਆਧਾਰਿਤ</fanControlSensor>
+		<fanControlUnknown>ਅਣਜਾਣ!</fanControlUnknown>
+		<buttonFanControlCustom>ਕਸਟਮ ...</buttonFanControlCustom>
+		<buttonFanControlCustomInfo>ਕਸਟਮ ਨਿਯੰਤਰਣ ਮੋਡ ਨਿਸ਼ਚਿਤ ਕਰੋ</buttonFanControlCustomInfo>
+		<buttonMinimize>ਨਿਊਨਤਮ ਕਰੋ</buttonMinimize>
+		<buttonMinimizeMac>ਮੇਨੂ ਪੱਟੀ ਵਿੱਚ ਲੁਕਾਓ</buttonMinimizeMac>
+		<buttonPreferences>ਤਰਜੀਹਾਂ...</buttonPreferences>
+		<buttonAbout>ਇਸ ਬਾਰੇ...</buttonAbout>
+		<statusMoreApps>%1 ਵਰਜਨ &amp; ਹੋਰ ਐਪਸ</statusMoreApps>
+		<messageNonAppleFSWarningMac>ਰੀਡ-ਓਨਲੀ ਮੋਡ: ਗੈਰ-ਐਪਲ ਫਾਇਲ ਸਿਸਟਮ ਖੋਜਿਆ ਗਿਆ (%1)। ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਨੂੰ '/ ਐਪਲੀਕੇਸ਼ਨ' ਵਿੱਚ ਭੇਜੋ ।</messageNonAppleFSWarningMac>
+		<messageFanControlMessage>ਪੱਖੇਆਂ ਨੂੰ ਨਿਯੰਤ੍ਰਣ ਕਰਨ ਲਈ, `ਮੈਕਜ਼ ਫੈਨ ਕੰਟਰੋਲ` ਨੂੰ ਉੱਚੇ ਅਧਿਕਾਰਾਂ ਤੇ ਸੈਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ ।</messageFanControlMessage>
+		<messageFanControlNotAvailableTitle>ਪੱਖੇਆਂ ਦਾ ਨਿਯੰਤਰਣ ਉਪਲਬਧ ਨਹੀਂ</messageFanControlNotAvailableTitle>
+		<messageFanControlNotAvailable>`ਮੈਕਜ਼ ਫੈਨ ਕੰਟਰੋਲ` ਫੈਨ ਕੰਟਰੋਲ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਦੇ ਨਾਲ ਨਾਲ ਸਪੀਡ ਨੂੰ ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਹੈਲਪਰ ਐਪ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕੇ \ n \ n ਜਦੋਂ ਪੁੱਛਿਆ ਜਾਵੇ ਤਾਂ ਪ੍ਰਸ਼ਾਸਕ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ। \ n \ n ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਸਾਡੇ ਨਾਲ \ nhttps: //www.crystalidea.com/contact ਤੇ ਸੰਪਰਕ ਕਰੋ</messageFanControlNotAvailable>
+		<messageNoFansDetected>ਇਸ ਕੰਪਿਊਟਰ ਤੇ ਕੋਈ ਪੱਖੇ ਨਹੀਂ ਮਿਲੇ ਹਨ</messageNoFansDetected>
+	</MainWindow>
+	<FanControlDialog>
+		<title>'%1' ਪੱਖੇ ਲਈ ਪੱਖੇਆਂ ਦਾ ਨਿਯੰਤਰਣ</title>
+		<radioConstant>ਸਥਿਰ RPM ਮੁੱਲ</radioConstant>
+		<radioSensor>ਸੈਂਸਰ-ਅਧਾਰਤ ਮੁੱਲ</radioSensor>
+		<staticIncrease>ਤਾਪਮਾਨ ਜਿਸ ਤੋਂ ਪੱਖੇਆਂ ਦੀ ਗਤੀ ਵਧ ਸਕਦੀ ਹੈ:</staticIncrease>
+		<staticMax>ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ:</staticMax>
+		<statusWarning>ਕੁਝ ਗਲਤ ਹੈ - ਘੱਟੋ-ਘੱਟ / ਅਧਿਕਤਮ ਪੱਖੇਆਂ ਮੁੱਲ ਬਰਾਬਰ (%1) ਹਨ । & Lt; br / & gt; ਕਿਰਪਾ ਕਰਕੇ ਚੈੱਕ ਕਰੋ ਕਿ ਕੋਈ ਹੋਰ ਪੱਖੇਆਂ ਨੂੰ ਕੰਟਰੋ ਕਰਨ ਵਾਲਾ ਸੌਫਟਵੇਅਰ ਅਨਇੰਸਟਾਲ ਕਰੇਆ ਹੈ ਅਤੇ `ਐਸਐਮਸੀ` ਨੂੰ ਰੀਸੈਟ ਕਰੋ।</statusWarning>
+	</FanControlDialog>
+	<TrayMenu>
+		<itemShow>ਮੈਕਜ਼ ਫੈਨ ਕੰਟਰੋਲ ਦਿਖਾਓ</itemShow>
+		<itemMoreLinks>ਹੋਰ</itemMoreLinks>
+		<itemWebsite>ਵੈੱਬਸਾਇਟ</itemWebsite>
+		<itemCheckForUpdates>ਅਪਡੇਟਾਂ ਲਈ ਚੈੱਕ ਕਰੋ ...</itemCheckForUpdates>
+		<itemRateApp>ਮੈਕ-ਅਪਡੇਟ ਨੂੰ ਰੇਟ ਕਰੋ</itemRateApp>
+		<itemFollowTwitter>ਗਾਹਕ ਬਣੋ @crystalidea</itemFollowTwitter>
+		<itemExit>ਬੰਦ ਕਰੋ</itemExit>
+		<itemSensorBased>ਸੈਂਸਰ-ਅਧਾਰਿਤ</itemSensorBased>
+	</TrayMenu>
+	<PreferencesWindow>
+		<title>ਤਰਜੀਹਾਂ</title>
+		<TabGeneral>ਜਨਰਲ</TabGeneral>
+		<tabTrayIcon>ਟਰੇ ਆਈਕੋਨ</tabTrayIcon>
+		<tabTrayIconMac>ਮੇਨੂ-ਪੱਟੀ ਡਿਸਪਲੇ</tabTrayIconMac>
+		<tabDiagnostics>ਡਾਇਗਨੋਸਟਿਕਸ</tabDiagnostics>
+		<staticLanguage>ਭਾਸ਼ਾ:</staticLanguage>
+		<checkSystemStart>ਸਿਸਟਮ ਨਾਲ ਆਟੋਸਟਾਰਟ ਹੋਵੇ ਜਿਸ ਨਾਲ ਘੱਟ ਤੋਂ ਘੱਟ ਦਿਖ ਸਕੇ (ਸਿਫ਼ਾਰਿਸ਼)</checkSystemStart>
+		<checkFahrenheit>ਫਾਰਨਰਹੀਟ ਤਾਪਮਾਨ ਦਾ ਪੈਮਾਨਾ ਵਰਤੋ</checkFahrenheit>
+		<checkPrecise>ਜਦੋਂ ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਤਾਪਮਾਨ ਦਾ ਸਹੀ ਪ੍ਰਦਰਸ਼ਨ ਕਿਤਾ ਜਾਵੇ(ਜਿਵੇਂ 45.4)</checkPrecise>
+		<staticSensor>ਸੈਸਰ:</staticSensor>
+		<staticFan>ਪੱਖਾ:</staticFan>
+		<staticIcon>ਆਈਕੋਨ:</staticIcon>
+		<comboIconOptionShow>ਦਿਖਾਉ</comboIconOptionShow>
+		<comboIconOptionShowBW>ਦਿਖਾਓ (ਕਾਲਾ &amp; ਚਿੱਟਾ)</comboIconOptionShowBW>
+		<comboOptionNone>ਕੋਈ ਨਹੀਂ</comboOptionNone>
+		<checkTwoLines>ਕੁਝ ਥਾਂ ਬਚਾਉਣ ਲਈ ਦੋ ਲਾਈਨਾਂ ਵਿੱਚ  ਪੱਖੇ/ਸੈਸਰ  ਸੂਚਕ ਰੀਡਿੰਗ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ</checkTwoLines>
+		<staticCelsiusOnlyOnWindows>(ਕੇਵਲ ਸੇਲਸਿਅਸ)</staticCelsiusOnlyOnWindows>
+		<checkLog>ਲੌਗ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ (ਰੀਸਟਾਰਟ ਕਰਨਾ ਦੀ ਲੋੜ ਹੈ)</checkLog>
+		<browseLog>ਬਰਾਊਜ਼ ਕਰੋ</browseLog>
+		<buttonCopyTechInfo>ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ ਕਾਪੀ ਕਰੋ</buttonCopyTechInfo>
+		<copyInfoMessage>ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ ਹੈ</copyInfoMessage>
+	</PreferencesWindow>
+	<AboutDialog>
+		<title>ਮੈਕਜ਼ ਫੈਨ ਕੰਟਰੋਲ ਬਾਰੇ</title>
+		<staticTechnicalSupport>ਫੋਰਮ ਤੇ ਤਕਨੀਕੀ ਸਹਾਇਤਾ</staticTechnicalSupport>
+		<staticOnlineHelp>ਔਨਲਾਈਨ ਸਹਾਇਤਾ</staticOnlineHelp>
+        <staticWarning>ਪ੍ਰੋਗ੍ਰਾਮ ਅਡਵਾਂਸਡ ਯੂਜਰਾਂ ਲਈ ਹੈ ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਤਾ ਹੈ ਕਿ ਉਹ ਆਪਣੇ ਮੈਕ ਨੂੰ ਨੁਕਸਾਨ ਕਰੇ ਬਿਨਾਂ ਕਿਵੇਂ ਵਰਤ ਸਕਦੇ ਹਨ. ਲੇਖਕ, ਉਪਯੋਗਤਾ ਜਾਂ ਪ੍ਰੋਗਰਾਮ ਨਾਲ ਜੁੜੇ ਹੋਏ ਨੁਕਸਾਨਾਂ ਜਿਵੇਂ ਕੀ, ਡਾਟਾ ਖਰਾਬ, ਖਰਬੀਆਂ, ਘਾਟੇ ਜਾਂ ਕਿਸੇ ਵੀ ਹੋਰ ਕਿਸਮ ਦੇ ਨੁਕਸਾਨਾ ਲਈ ਜਿੰਮੇਵਾਰ ਨਹੀਂ ਹਨ ।</staticWarning>
+	</AboutDialog>
+	<NewVersionDialog>
+		<title>ਮੈਕਜ਼ ਫੈਨ ਕੰਟਰੋਲ - ਨਵਾਂ ਵਰਜਨ ਉਪਲਬਧ ਹੈ</title>
+		<staticNewVersion>ਪ੍ਰੋਗਰਾਮ ਦਾ ਨਵਾਂ ਵਰਜਨ ਉਪਲਬਧ ਹੈ । ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ &lt;a href='website'&gt;website&lt;/a&gt; ਤੇ ਨਵੇਂ ਵਰਜਨ ਲਈ ਜਾਓ</staticNewVersion>
+	</NewVersionDialog>
+	<RateMeDialog>
+		<message>ਮੈਕ-ਅਪਡੇਟ ਤੇ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</message>
+		<informativeText>ਜੇ ਤੁਸੀਂ %1 ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਨੰਦ ਮਾਣਦੇ ਹੋ, ਤਾਂ ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਰੇਟ ਕਰਨ ਲਈ ਇੱਕ ਪਲ ਲੈਣਾ ਚਾਹੋਗੇ? ਇਹ ਇੱਕ ਮਿੰਟ ਤੋਂ ਜਿਆਦਾ ਨਹੀਂ ਲਵੇਗਾ. ਤੁਹਾਡੇ ਸਾਥ ਲਈ ਧੰਨਵਾਦ!</informativeText>
+		<buttonRate>ਮੈਕ-ਅਪਡੇਟ ਤੇ ਰੇਟ ਕਰੋ</buttonRate>
+		<buttonNoThanks>ਨਹੀਂ ਧੰਨਵਾਦ</buttonNoThanks>
+		<checkDontShowAgain>ਇਹ ਸੁਨੇਹਾ ਨੂੰ ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਓ</checkDontShowAgain>
+	</RateMeDialog>
+	<Common>
+		<buttonClose>ਬੰਦ ਕਰੋ</buttonClose>
+		<buttonOK>ਠੀਕ ਹੈ</buttonOK>
+		<buttonCancel>ਰੱਦ ਕਰੋ</buttonCancel>
+		<buttonContinue>ਜਾਰੀ ਰੱਖੋ</buttonContinue>
+	</Common>
+	<core>
+		<UpdateChecker>
+			<ReleasedOn>%1 ਤੇ ਜਾਰੀ ਕੀਤਾ</ReleasedOn>
+			<CheckForUpdates>ਅਪਡੇਟਾਂ ਲਈ ਚੈੱਕ ਕਰੋ ...</CheckForUpdates>
+			<NewVersionAvailable>%1 ਦਾ ਨਵਾਂ ਵਰਜਨ ਉਪਲੱਬਧ ਹੈ!</NewVersionAvailable>
+			<NewVersionAvailableText>%1 %2 ਹੁਣ ਉਪਲੱਬਧ ਹੈ - ਤੁਹਾਡੇ ਕੋਲ %3 ਹੈ । ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</NewVersionAvailableText>
+			<UpdateAlertTitle>ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ</UpdateAlertTitle>
+			<UpdateAlertReleaseNotes>ਜਾਰੀ ਸੂਚਨਾ:</UpdateAlertReleaseNotes>
+			<UpdateAlertRemindLater>ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ</UpdateAlertRemindLater>
+			<UpdateAlertSkip>ਇਹ ਵਰਜਨ ਛੱਡੋ</UpdateAlertSkip>
+			<UpdateAlertInstall>ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ</UpdateAlertInstall>
+			<UpdateAlertAutomaticUpdates>ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ</UpdateAlertAutomaticUpdates>
+			<MessageNoUpdateAvailable>ਤੁਸੀਂ ਅਪ ਟੂ ਡੇਟ ਹੋ!</MessageNoUpdateAvailable>
+			<MessageNoUpdateAvailableDescription>%1 %2 ਇਸ ਵੇਲੇ ਨਵੀਨਤਮ ਵਰਜਨ ਉਪਲੱਬਧ ਹੈ ।</MessageNoUpdateAvailableDescription>
+			<MessageErrorConnect>ਅਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਇੱਕ ਸਮੱਸਿਆ ਪੈਦਾ ਹੋ ਗਈ, ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ ।</MessageErrorConnect>
+			<MessageErrorParse>ਅਪਡੇਟ ਫੀਡ ਨੂੰ ਪਾਰਸ ਕਰਨ ਦੌਰਾਨ ਇੱਕ ਸਮੱਸਿਆ ਉਤਪੰਨ ਹੋਈ ।</MessageErrorParse>
+			<UpdateProgressTitle>%1 ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</UpdateProgressTitle>
+			<UpdateProgressCancel>ਰੱਦ ਕਰੋ</UpdateProgressCancel>
+			<UpdateProgressInstallAndRelaunch>ਇੰਸਟਾਲ ਅਤੇ ਰੀਲੌਂਚ ਕਰੋ</UpdateProgressInstallAndRelaunch>
+			<UpdateProgressStatusDownloading>ਅਪਡੇਟ ਡਾਊਨਲੋਡ ਕਿਤਾ ਰਿਹਾ ਹੈ ...</UpdateProgressStatusDownloading>
+			<UpdateProgressExtract>ਅਪਡੇਟ ਐਕਸਟਰੈਕਟ ਕਿਤਾ ਰਿਹਾ ਹੈ ...</UpdateProgressExtract>
+			<UpdateProgressStatusReady>ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤਿਆਰ</UpdateProgressStatusReady>
+			<UpdateProgressSize>%1 ਦੇ %2</UpdateProgressSize>
+			<UpdateProgressB>ਬੀ</UpdateProgressB>
+			<UpdateProgressKB>ਕੇ ਬੀ</UpdateProgressKB>
+			<UpdateProgressMB>ਐਮ ਬੀ</UpdateProgressMB>
+			<UpdateProgressGB>ਜੀ ਬੀ</UpdateProgressGB>
+		</UpdateChecker>
+		<LetsMoveMac>
+			<kStrMoveApplicationCouldNotMove>ਐਪਲੀਕੇਸ਼ਨ ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੇਆ ਨਹੀਂ ਕਿਤਾ ਜਾ ਸਕਿਆ</kStrMoveApplicationCouldNotMove>
+			<kStrMoveApplicationQuestionTitle>ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਭੇਜੋ</kStrMoveApplicationQuestionTitle>
+			<kStrMoveApplicationQuestionTitleHome>ਆਪਣੇ ਘਰ ਫੋਲਡਰ ਦੇ ਐਪਲੀਕੇਸ਼ਨਾਂ ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੋ?</kStrMoveApplicationQuestionTitleHome>
+			<kStrMoveApplicationQuestionMessage>Wਕੀ ਤੁਸੀਂ %1 ਨੂੰ ਆਪਣੇ ਆਪ ਹੀ ਐਪਲੀਕੇਸ਼ਨ ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੇਆ ਚਾਹੁੰਦੇ ਹੋ?</kStrMoveApplicationQuestionMessage>
+			<kStrMoveApplicationButtonMove>ਐਪਲੀਕੇਸ਼ਨ ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੋ</kStrMoveApplicationButtonMove>
+			<kStrMoveApplicationButtonDoNotMove>ਹਿਲਾਓ ਨਾ</kStrMoveApplicationButtonDoNotMove>
+			<kStrMoveApplicationQuestionInfoWillRequirePasswd>ਨੋਟ ਕਰੋ ਕਿ ਇਸ ਲਈ ਪ੍ਰਬੰਧਕ ਪਾਸਵਰਡ ਦੀ ਲੋੜ ਹੋਵੇਗੀ ।</kStrMoveApplicationQuestionInfoWillRequirePasswd>
+			<kStrMoveApplicationQuestionInfoInDownloadsFolder>ਇਹ ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਅਨਲੁਕ ਰੂਪ ਵਿੱਚ ਰੱਖੇਗਾ ।</kStrMoveApplicationQuestionInfoInDownloadsFolder>
+		</LetsMoveMac>
+		<QLineEditEx>
+			<actionUndo>ਵਾਪਿਸ</actionUndo>
+			<actionRedo>ਮੁੜ ਕਰੋ</actionRedo>
+			<actionCut>ਕੱਟੋ</actionCut>
+			<actionCopy>ਕਾਪੀ ਕਰੋ</actionCopy>
+			<actionPaste>ਚਿਪਕਾਓ</actionPaste>
+			<actionDelete>ਮਿਟਾਓ</actionDelete>
+			<actionSelectAll>ਸਾਰਿਆ ਨੂੰ ਚੁਣੋ</actionSelectAll>
+		</QLineEditEx>
+		<QMessageBoxEx>
+			<buttonOK>ਠੀਕ ਹੈ</buttonOK>
+			<buttonCancel>ਰੱਦ ਕਰੋ</buttonCancel>
+			<buttonClose>ਬੰਦ ਕਰੋ</buttonClose>
+			<buttonYes>ਹਾਂ</buttonYes>
+			<buttonNo>ਨਾਂ</buttonNo>
+		</QMessageBoxEx>
+	</core>
+</LanguageStrings>
